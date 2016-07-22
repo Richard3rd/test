@@ -1,2 +1,2 @@
 # test
-* ** repository for github testing **
+* **repository for github testing**
